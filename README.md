@@ -1,5 +1,5 @@
 # A INVASÃO 
-## O Misterioso enrendo de uma história cheia de suspense e aventura
+## A Misteriosa trama cheia de suspense e aventura
  
 ## 📒 Descrição
 Esse projeto perpassa pelas 
