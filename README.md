@@ -56,6 +56,8 @@ Em algumas palavras, essa história é de uma jovem, chamada Ana, que sozinha em
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
+
+![Imagem dos sobreviventes](assets/img/sobreviventes.jpeg)
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão
