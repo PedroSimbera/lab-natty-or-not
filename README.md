@@ -62,8 +62,9 @@ Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
 
+<p align="center">
 <img src="assets/img/sobreviventes.jpeg" alt="Imagem dos sobreviventes" style="height:250px">
-
+</p>
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão
