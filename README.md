@@ -38,8 +38,8 @@ Esse projeto perpassa pelas
    </li>
    <li><strong>Copilot</strong>
      <p>
-      Em suma trata-se de um assistente de codificação baseado em IA desenvolvido pela GitHub e OpenAI para ajudar programadores a escreverem código.
-      Os prompts do gemini se adequaram melhor ao Copilot, principal responsável pelas imagens do projeto.
+      Em suma trata-se de um assistente de codificação baseado em IA desenvolvido pela GitHub e OpenAI para ajudar programadores a escreverem código dentre outras funcionalidades como geração de imgens e textos.
+      Os prompts do ChatGPT se adequaram melhor ao Copilot, principal responsável pelas imagens do projeto.
      </p>
    </li>
   
