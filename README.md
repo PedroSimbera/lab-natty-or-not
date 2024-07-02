@@ -4,7 +4,8 @@
 ## 📒 Descrição
 Esse projeto foi incentivado pela [DIO](www.dio.me) em dois de seus brilhantes bootcamps: **Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3** & **Formação Fundamentos de Inteligência Artificial**.
 
-![Nexa Ia com AWS](bootcamp_IA_nexa_AWS.png) | ![Fundamentos IA](assets/img/bootcamp_IA_fundamentos.png)
+<img src="bootcamp_IA_nexa_AWS.png" alt="Ia nexa AWS" style="height:150px">
+<img src="assets/img/bootcamp_IA_fundamentos.png"  alt="Fundamentos IA" style="height:150px">
 
 Esse projeto perpassa pelas principais tecnologias de IA do mercado com objetivo de demonstrar um pouco mais sobre a capacidade destas tecnologias em produzir conteúdos que outrora eram privativos a humanos. Seja na criação de uma canção, na narração, idealização e criação de uma história, ou no design de uma imagem e pintura.
 
