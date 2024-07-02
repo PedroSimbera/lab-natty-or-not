@@ -1,8 +1,4 @@
-<p align="center">
-
 # A INVASÃO 
-
-</p>
 
 ## A Misteriosa trama cheia de suspense e aventura
  
@@ -66,7 +62,7 @@ Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
 
-![Imagem dos sobreviventes](assets/img/sobreviventes.jpeg)
+<img src="assets/img/sobreviventes.jpeg" alt="Imagem dos sobreviventes" style="height:250px">
 
 Apresente os resultados do seu projeto
 
