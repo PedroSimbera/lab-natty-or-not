@@ -2,7 +2,10 @@
 ## A Misteriosa trama cheia de suspense e aventura
  
 ## 📒 Descrição
-Esse projeto perpassa pelas 
+Esse projeto perpassa pelas principais tecnologias de IA do mercado com objetivo de demonstrar um pouco mais sobre a capacidade destas tecnologias em produzir conteúdos que outrora eram privativos a humanos. Seja na criação de uma canção, na narração, idealização e criação de uma história, ou no design de uma imagem e pintura.
+Tanto é verdade que até mesmo nesta documentação certos trechos podem ou não terem sido criados por IA, certas idealizações podem ou não terem sido criadas por IA e por ae vai. Caberá ao bom leitor julgar.
+Em algumas palavras, essa história é de uma jovem, chamada Ana, que sozinha em sua casa percebe que seu planeta está sendo invadido. Com muita coragem adota uma postura ativa para se salvar.
+<img>
 
 ## 🤖 Tecnologias Utilizadas
 <ul>
@@ -42,7 +45,8 @@ Esse projeto perpassa pelas
       Os prompts do ChatGPT se adequaram melhor ao Copilot, principal responsável pelas imagens do projeto.
      </p>
    </li>
-  
+  <li><strong>CapCut</strong>
+     <p>Utilizado para edição do vídeo</p>
 </ul>
 
 ## 🧐 Processo de Criação
