@@ -1,5 +1,5 @@
 # Título do Projeto Extremamente Aesthetic ;)
-                  ## Natural ou Fake Natty? 
+## Natural ou Fake Natty? 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
