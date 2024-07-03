@@ -69,8 +69,8 @@ Descreva como você criou o conteúdo
 Antes de mais nada sintam-se convidados a assistir esse teaser do projeto:
 
 
-https://github.com/PedroSimbera/lab-natty-or-not/assets/124898848/9d458d0b-dfc4-4787-bef2-c581463fd2ff
 
+O projeto completo está no Youtube [clique aqui.](https://youtu.be/Krzc4ZLPF1U)
 
 ## 💭 Reflexão
 Comente sobre o desafio de criar algo 'natty' com IA.
