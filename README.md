@@ -69,7 +69,11 @@ Descreva como você criou o conteúdo
 Antes de mais nada sintam-se convidados a assistir esse teaser do projeto:
 
 <p align="center">
-![Teaser Projeto](assets/video-audio/Projeto%20IA%20Teaser.mp4)
+
+<video width="320" height="240" controls>
+  <source src="vassets/video-audio/Projeto_IA_Teaser.mp4" type="video/mp4" alt="video teaser">
+</video>
+
 </p>
 
 
