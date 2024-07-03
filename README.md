@@ -58,7 +58,20 @@ Em algumas palavras, essa história é de uma jovem, chamada Ana, que sozinha em
 </ul>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ Tinha como objetivo criar um projeto que envolvesse o máximo de Inteligências Artificiais possível, inclusive uma oportunidade para entender um pouco mais sobre engenharia de prompts.
+
+ Visto isso, por quê não contar uma boa história com um toque de suspense? Neste momento delimitei o cenário, o tamanho e principais detalhes, mas abrir margem para que o **ChatGPT** utilizasse sua inteligência. Assim, foi criado o texto enredo da história, com seus personagens.
+
+ Após isso, com base nesta história solicitei para o **ChatGPT** criar os prompts das imagens que daria visualização aos personagens e contexto.
+
+ Precisei refinar e melhorar o prompt, como tratavam-se de diferentes imagens precisava manter as caracterísitcas dos personagens. Aproveitei para comparar o mesmo prompt em diferentes Inteligências, o **Copitlot** e **Leonardo IA**.
+
+ Com o **ElevenLabs** foi utilizado para criar a narração, após escolha da voz, foi utilizado o texto da história gerado anteriormente.
+
+ Após isso, com **Gemini** criando o prompt especializados para o **Suno** foi dado som ao projeto, com música trilha instrumental e com música temática ao final.
+
+Por fim, a união do conteúdo no **CapCut**.
+
 
 ## 🚀 Resultados
 
@@ -68,15 +81,18 @@ Descreva como você criou o conteúdo
 
 Antes de mais nada sintam-se convidados a assistir esse teaser do projeto:
 
-
-
 https://github.com/PedroSimbera/lab-natty-or-not/assets/124898848/801eb941-7231-4fc6-b2a8-9e455ddaffa2
-
-
 
 O projeto completo está no Youtube [clique aqui.](https://youtu.be/Krzc4ZLPF1U)
 
-## 💭 Reflexão
-Comente sobre o desafio de criar algo 'natty' com IA.
 
-## Links Interessantes
+## 💭 Reflexão
+Muitas vezes passamos muito tempo aprendendo todas as técnicas e teorias de criação de IA e pouco tempo analisando, experimentando e aprendendo a partir dos lançamentos e novas tendências.
+
+Neste projeto acredito que pude entender de fato o poder dos prompts e as possibilidades de elevar ainda mais os resultados. As imagens e a música foram os principais momentos de percepção deste efeito de prompts de qualidade.
+
+Muitos conteúdos criados por IA estão alcançando uma qualidade que para leigos e não leigos podem passar despercebido. Os textos se não forem analisados em volumes podem não ser percebidos, as imagens ainda possuem uma forma de filtro que ainda podem ser percebidos com certa análise, ainda que algumas são dignas de cinema. Quando o assunto é música e vídeo, alguns podem exigir conhecimento grande para distinguir.
+
+De tudo isso, acredito que devemos aproveitar esse poder, utilizar, mas sempre com muita sabedoria e cuidado, não nos esquecendo da ética e responsabilidade.
+
+
