@@ -65,7 +65,13 @@ Descreva como você criou o conteúdo
 <p align="center">
 <img src="assets/img/sobreviventes.jpeg" alt="Imagem dos sobreviventes" style="height:250px">
 </p>
-Apresente os resultados do seu projeto
+
+Antes de mais nada sintam-se convidados a assistir esse teaser do projeto:
+
+<p align="center">
+![Teaser Projeto](assets/video-audio/Projeto%20IA%20Teaser.mp4)
+</p>
+
 
 ## 💭 Reflexão
 Comente sobre o desafio de criar algo 'natty' com IA.
