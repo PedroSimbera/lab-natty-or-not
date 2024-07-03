@@ -70,6 +70,10 @@ Antes de mais nada sintam-se convidados a assistir esse teaser do projeto:
 
 
 
+https://github.com/PedroSimbera/lab-natty-or-not/assets/124898848/801eb941-7231-4fc6-b2a8-9e455ddaffa2
+
+
+
 O projeto completo está no Youtube [clique aqui.](https://youtu.be/Krzc4ZLPF1U)
 
 ## 💭 Reflexão
