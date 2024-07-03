@@ -68,7 +68,7 @@ Descreva como você criou o conteúdo
 
 Antes de mais nada sintam-se convidados a assistir esse teaser do projeto:
 
-![Tease]("assets/video-audio/Projeto_IA_Teaser.mp4")
+![Tease](assets/video-audio/Projeto_IA_Teaser.mp4)
 
 
 ## 💭 Reflexão
