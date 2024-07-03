@@ -68,7 +68,8 @@ Descreva como você criou o conteúdo
 
 Antes de mais nada sintam-se convidados a assistir esse teaser do projeto:
 
-https://github.com/PedroSimbera/lab-natty-or-not/blob/main/assets/video-audio/Projeto_IA_Teaser.mp4
+
+https://github.com/PedroSimbera/lab-natty-or-not/assets/124898848/9d458d0b-dfc4-4787-bef2-c581463fd2ff
 
 
 ## 💭 Reflexão
